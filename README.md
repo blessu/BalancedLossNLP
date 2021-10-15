@@ -1,6 +1,6 @@
 # BalancedLossNLP
 
-*The repository is now hosted at https://github.com/Roche/BalancedLossNLP. Please use that for latest updates or issues.*
+**The repository is now hosted at https://github.com/Roche/BalancedLossNLP. Please use that for latest updates or issues.**
 
 The Pytorch implementation for paper 
 
